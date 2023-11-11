@@ -1,7 +1,7 @@
 # CJKVMincho
-This is a serif fonts that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic
+This is a serif fonts that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic. Some Chinese characters such as 才 will be displayed in Japanese style instead of Chinese style. 
 
-Unicode blocks :
+Unicode blocks coverage :
 Basic Latin
 Latin-1 Supplement
 Latin Extended-A, B, Additional
