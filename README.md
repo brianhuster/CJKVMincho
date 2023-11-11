@@ -1,5 +1,5 @@
 # CJKVMincho
-This is a serif fonts that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic. Some Chinese characters such as 才 will be displayed in Japanese style instead of Chinese style. 
+This is a serif fonts that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic, Coptic. Some Chinese characters such as 才 will be displayed in Japanese style instead of Chinese style. 
 
 Unicode blocks coverage :
 Basic Latin;
@@ -51,5 +51,15 @@ Kana Supplement;
 Enclosed Alphanumeric Supplement;
 CJK Unified Ideographs Extension B, C, D, E, F;
 CJK Compatibility Ideographs Supplement;
+
+Open-source fonts that are borrowed for this project :
+
+Roboto serif by Google
+
+Gen’ei koburi Minchō (源映こぶり明朝) by Okoneya
+
+Nôm Na Tống by Vietnamese Nôm Preservation Foundation (Hội bảo tồn di sản chữ Nôm Việt Nam) 
+
+Nanum Myeongjo (나눔명조) by Naver
 
 
