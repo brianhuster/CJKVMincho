@@ -15,7 +15,7 @@ This is a serif fonts that support various languages and writing systems such as
 * Superscripts and Subscripts;
 * Currency Symbols;
 * Combining Diacritical Marks for Symbols;
-Letterlike Symbols;
+- Letterlike Symbols;
 Number Forms;
 Arrows;
 Mathematical Operators;
