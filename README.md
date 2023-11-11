@@ -56,9 +56,9 @@ Updated date : November 11st 2023
 * CJK Compatibility Ideographs Supplement
 
 ## Open-source fonts that were borrowed for this project :
-* Roboto serif by Google
+* [Roboto serif](https://fonts.google.com/specimen/Roboto+Serif) by [Google](google.com)
 * Gen’ei koburi Minchō (源映こぶり明朝) by Okoneya
-* Nôm Na Tống (喃那宋) by Vietnamese Nôm Preservation Foundation (Hội bảo tồn di sản chữ Nôm Việt Nam, 會保存遺産𡨸喃越南) 
+* Nôm Na Tống (喃那宋) by Vietnamese Nôm Preservation Foundation (Hội bảo tồn di sản Nôm, 會保存遺産喃) 
 * Nanum Myeongjo (나눔명조) by Naver (네이버) 
 
 
