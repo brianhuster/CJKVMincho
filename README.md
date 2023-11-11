@@ -1,7 +1,7 @@
 # CJKVMincho
 This is a serif fonts that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic, Coptic. Some Chinese characters such as 才 will be displayed in Japanese style instead of Chinese style. 
 
-##Unicode blocks coverage :
+## Unicode blocks coverage :
 *Basic Latin;
 Latin-1 Supplement;
 Latin Extended-A, B, Additional;
@@ -52,7 +52,7 @@ Enclosed Alphanumeric Supplement;
 CJK Unified Ideographs Extension B, C, D, E, F;
 CJK Compatibility Ideographs Supplement;
 
-##Open-source fonts that were borrowed for this project :
+## Open-source fonts that were borrowed for this project :
 
 Roboto serif by Google
 
