@@ -52,7 +52,7 @@ Enclosed Alphanumeric Supplement;
 CJK Unified Ideographs Extension B, C, D, E, F;
 CJK Compatibility Ideographs Supplement;
 
-Open-source fonts that are borrowed for this project :
+Open-source fonts that were borrowed for this project :
 
 Roboto serif by Google
 
