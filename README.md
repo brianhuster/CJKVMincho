@@ -59,6 +59,6 @@ Updated date : November 11st 2023
 * [Roboto serif](https://fonts.google.com/specimen/Roboto+Serif) by [Google](https://about.google)
 * Gen’ei koburi Minchō (源映こぶり明朝) by Okoneya
 * Nôm Na Tống (喃那宋) by Vietnamese Nôm Preservation Foundation (Hội bảo tồn di sản Nôm, 會保存遺産喃) 
-* Nanum Myeongjo (나눔명조) by Naver (네이버) 
+* Nanum Myeongjo (나눔명조) by [Naver](https://www.navercorp.com/en/naver/company) (네이버) 
 
 
