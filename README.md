@@ -2,19 +2,19 @@
 This is a serif fonts that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic, Coptic. Some Chinese characters such as 才 will be displayed in Japanese style instead of Chinese style. 
 
 ## Unicode blocks coverage :
-*Basic Latin;
-Latin-1 Supplement;
-Latin Extended-A, B, Additional;
-IPA Extensions;
-Spacing Modifier Letters;
-Combining Diacritical Marks;
-Greek and Coptic;
-Cyrillic;
-Latin Extended Additional;
-General Punctuation;
-Superscripts and Subscripts;
-Currency Symbols;
-Combining Diacritical Marks for Symbols;
+* Basic Latin;
+* Latin-1 Supplement;
+* Latin Extended-A, B, Additional;
+* IPA Extensions;
+* Spacing Modifier Letters;
+* Combining Diacritical Marks;
+* Greek and Coptic;
+* Cyrillic;
+* Latin Extended Additional;
+* General Punctuation;
+* Superscripts and Subscripts;
+* Currency Symbols;
+* Combining Diacritical Marks for Symbols;
 Letterlike Symbols;
 Number Forms;
 Arrows;
