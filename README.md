@@ -43,6 +43,7 @@ This is a serif fonts that support various languages and writing systems such as
 * Enclosed CJK Letters and Months
 * CJK Compatibility
 * CJK Unified Ideographs Extension A, B
+* Selected characters from CJK Unified Ideographs Extension C, D, E, F, G
 * Private Use Area
 * CJK Compatibility Ideographs
 * Alphabetic Presentation Forms
