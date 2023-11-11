@@ -48,22 +48,8 @@ Vertical Forms;
 CJK Compatibility Forms;
 Halfwidth and Fullwidth Forms;
 Kana Supplement;
-Enclosed Alphanumeric Supplement
+Enclosed Alphanumeric Supplement;
+CJK Unified Ideographs Extension B, C, D, E, F;
+CJK Compatibility Ideographs Supplement;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CJK Unified Ideographs Extension B, C, D, E, F
-CJK Compatibility Ideographs Supplement
