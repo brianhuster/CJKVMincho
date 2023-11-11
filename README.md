@@ -40,7 +40,7 @@ This is a serif fonts that support various languages and writing systems such as
 * Hangul
 * Enclosed CJK Letters and Months
 * CJK Compatibility
-* CJK Unified Ideographs Extension A, B, C, D, E, F
+* CJK Unified Ideographs Extension A, B
 * Private Use Area
 * CJK Compatibility Ideographs
 * Alphabetic Presentation Forms
@@ -49,7 +49,6 @@ This is a serif fonts that support various languages and writing systems such as
 * Halfwidth and Fullwidth Forms
 * Kana Supplement
 * Enclosed Alphanumeric Supplement
-* CJK Unified Ideographs Extension B, C, D, E, F
 * CJK Compatibility Ideographs Supplement
 
 ## Open-source fonts that were borrowed for this project :
