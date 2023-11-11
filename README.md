@@ -4,7 +4,7 @@
 This is a serif font that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic, Coptic. Some Chinese characters such as 才 will be displayed in Japanese style instead of Chinese style.  
 Latest version update : November 11st 2023
 
-## Unicode blocks coverage :
+## Unicode blocks coverage
 * Basic Latin
 * Latin-1 Supplement
 * Latin Extended-A, B, Additional
@@ -55,7 +55,7 @@ Latest version update : November 11st 2023
 * Enclosed Alphanumeric Supplement
 * CJK Compatibility Ideographs Supplement
 
-## Reference open-source fonts : 
+## Reference open-source fonts
 * [Roboto serif](https://fonts.google.com/specimen/Roboto+Serif) and [Noto serif](https://fonts.google.com/noto/specimen/Noto+Serif) published by [Google](https://about.google)
 * [Gen’ei koburi Minchō (源映こぶり明朝)](https://okoneya.jp/font/genei-koburimin.html) published by [Okoneya (御琥祢屋)](https://okoneya.jp)
 * [Nôm Na Tống](http://nomfoundation.org/nom-tools/Nom-Font?uiLang=en) (喃那宋) published by [Vietnamese Nôm Preservation Foundation](http://nomfoundation.org/?uiLang=en) ([Hội bảo tồn di sản Nôm, 會保存遺産喃](http://nomfoundation.org/?uiLang=vn)) 
