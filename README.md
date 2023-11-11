@@ -1,10 +1,10 @@
 # CJKVMincho
-This is a serif fonts that support Chinese characters (simplified, traditional, Japanese shinjitai)
+This is a serif fonts that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic
+
 Unicode blocks :
 Basic Latin
 Latin-1 Supplement
-Latin Extended-A
-Latin Extended-B
+Latin Extended-A, B, Additional
 IPA Extensions
 Spacing Modifier Letters
 Combining Diacritical Marks
@@ -37,6 +37,7 @@ Hiragana
 Katakana
 Kanbun
 Katakana Phonetic Extensions
+Hangul
 Enclosed CJK Letters and Months
 CJK Compatibility
 CJK Unified Ideographs Extension A
@@ -49,7 +50,5 @@ CJK Compatibility Forms
 Halfwidth and Fullwidth Forms
 Kana Supplement
 Enclosed Alphanumeric Supplement
-CJK Unified Ideographs Extension B
-CJK Unified Ideographs Extension C
-CJK Unified Ideographs Extension D
+CJK Unified Ideographs Extension B, C, D, E, F
 CJK Compatibility Ideographs Supplement
