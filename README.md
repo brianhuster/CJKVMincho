@@ -58,7 +58,7 @@ Updated date : November 11st 2023
 ## Open-source fonts that were borrowed for this project :
 * [Roboto serif](https://fonts.google.com/specimen/Roboto+Serif) by [Google](https://about.google)
 * [Gen’ei koburi Minchō (源映こぶり明朝)](https://okoneya.jp/font/genei-koburimin.html) by [Okoneya](https://okoneya.jp)
-* [Nôm Na Tống (喃那宋)](www.nomfoundation.org/nom-tools/Nom-Font?uiLang=en) by [Vietnamese Nôm Preservation Foundation](www.nomfoundation.org/?uiLang=en) (Hội bảo tồn di sản Nôm, 會保存遺産喃) 
-* [Nanum Myeongjo (나눔명조)](https://m-hangeul.naver.com/font/detail/nanum-myeongjo) by [Naver](https://www.navercorp.com/en/naver/company) (네이버) 
+* [Nôm Na Tống](www.nomfoundation.org/nom-tools/Nom-Font?uiLang=en) (喃那宋) by [Vietnamese Nôm Preservation Foundation](www.nomfoundation.org/?uiLang=en) ([Hội bảo tồn di sản Nôm, 會保存遺産喃](www.nomfoundation.org/?uiLang=vn)) 
+* [Nanum Myeongjo (나눔명조)](https://m-hangeul.naver.com/font/detail/nanum-myeongjo) by [Naver](https://www.navercorp.com/en/naver/company) ([네이버](https://www.navercorp.com/kr/)) 
 
 
