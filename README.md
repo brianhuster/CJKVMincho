@@ -55,7 +55,7 @@ Updated date : November 11st 2023
 * Enclosed Alphanumeric Supplement
 * CJK Compatibility Ideographs Supplement
 
-## Open-source fonts that were borrowed for this project :
+## Open-source fonts borrowed for this project :
 * [Roboto serif](https://fonts.google.com/specimen/Roboto+Serif) by [Google](https://about.google)
 * [Gen’ei koburi Minchō (源映こぶり明朝)](https://okoneya.jp/font/genei-koburimin.html) by [Okoneya](https://okoneya.jp)
 * [Nôm Na Tống](www.nomfoundation.org/nom-tools/Nom-Font?uiLang=en) (喃那宋) by [Vietnamese Nôm Preservation Foundation](www.nomfoundation.org/?uiLang=en) ([Hội bảo tồn di sản Nôm, 會保存遺産喃](www.nomfoundation.org/?uiLang=vn)) 
