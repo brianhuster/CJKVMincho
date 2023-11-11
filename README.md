@@ -2,53 +2,68 @@
 This is a serif fonts that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic. Some Chinese characters such as 才 will be displayed in Japanese style instead of Chinese style. 
 
 Unicode blocks coverage :
-Basic Latin
-Latin-1 Supplement
-Latin Extended-A, B, Additional
-IPA Extensions
-Spacing Modifier Letters
-Combining Diacritical Marks
-Greek and Coptic
-Cyrillic
-Latin Extended Additional
-General Punctuation
-Superscripts and Subscripts
-Currency Symbols
-Combining Diacritical Marks for Symbols
-Letterlike Symbols
-Number Forms
-Arrows
-Mathematical Operators
-Miscellaneous Technical
-Control Pictures
-Enclosed Alphanumerics
-Box Drawing
-Block Elements
-Geometric Shapes
-Miscellaneous Symbols
-Dingbats
-Supplemental Arrows-B
-Miscellaneous Mathematical Symbols-B
-Miscellaneous Symbols and Arrows
-CJK Radicals Supplement
-Kangxi Radicals
-CJK Symbols and Punctuation
-Hiragana
-Katakana
-Kanbun
-Katakana Phonetic Extensions
-Hangul
-Enclosed CJK Letters and Months
-CJK Compatibility
-CJK Unified Ideographs Extension A
-CJK Unified Ideographs
-Private Use Area
-CJK Compatibility Ideographs
-Alphabetic Presentation Forms
-Vertical Forms
-CJK Compatibility Forms
-Halfwidth and Fullwidth Forms
-Kana Supplement
+Basic Latin;
+Latin-1 Supplement;
+Latin Extended-A, B, Additional;
+IPA Extensions;
+Spacing Modifier Letters;
+Combining Diacritical Marks;
+Greek and Coptic;
+Cyrillic;
+Latin Extended Additional;
+General Punctuation;
+Superscripts and Subscripts;
+Currency Symbols;
+Combining Diacritical Marks for Symbols;
+Letterlike Symbols;
+Number Forms;
+Arrows;
+Mathematical Operators;
+Miscellaneous Technical;
+Control Pictures;
+Enclosed Alphanumerics;
+Box Drawing;
+Block Elements;
+Geometric Shapes;
+Miscellaneous Symbols;
+Dingbats;
+Supplemental Arrows-B;
+Miscellaneous Mathematical Symbols-B;
+Miscellaneous Symbols and Arrows;
+CJK Radicals Supplement;
+Kangxi Radicals;
+CJK Symbols and Punctuation;
+Hiragana;
+Katakana;
+Kanbun;
+Katakana Phonetic Extensions;
+Hangul;
+Enclosed CJK Letters and Months;
+CJK Compatibility;
+CJK Unified Ideographs Extension A, B, C, D, E, F;
+Private Use Area;
+CJK Compatibility Ideographs;
+Alphabetic Presentation Forms;
+Vertical Forms;
+CJK Compatibility Forms;
+Halfwidth and Fullwidth Forms;
+Kana Supplement;
 Enclosed Alphanumeric Supplement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CJK Unified Ideographs Extension B, C, D, E, F
 CJK Compatibility Ideographs Supplement
