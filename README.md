@@ -2,7 +2,7 @@
 
 ## Introduction  
 This is a serif font that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic, Coptic. Some Chinese characters such as 才 will be displayed in Japanese style instead of Chinese style.  
-Latest version update : November 12nd 2023 : Fix character 小
+Latest version update : November 12nd 2023 : Fix character 小、雨、舟
 
 ## Unicode blocks coverage
 * Basic Latin
