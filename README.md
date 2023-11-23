@@ -1,8 +1,8 @@
-# CJKVMincho
+# CJKVMfonts
 
 ## Introduction  
-This is a serif font that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic, Coptic. Some Chinese characters such as 才 will be displayed in Japanese style instead of Chinese style.  
-Latest version update : November 14th 2023 
+These are fonts that support various languages and writing systems such as Chinese (simplified, traditional), Japanese (hiragana, katakana, Kanji), Korean (Hangul, in Mincho font only), Vietnamese (Latin and Chữ Nôm), Greek, Cyrillic, Coptic (in Mincho font only). Some Chinese characters such as 才 will be displayed in Japanese style instead of Chinese style.  
+Latest version update : November 23th 2023 
 
 ## Unicode blocks coverage
 * Basic Latin
@@ -56,9 +56,10 @@ Latest version update : November 14th 2023
 * CJK Compatibility Ideographs Supplement
 
 ## Reference open-source fonts
-* [Roboto serif](https://fonts.google.com/specimen/Roboto+Serif) and [Noto serif](https://fonts.google.com/noto/specimen/Noto+Serif) published by [Google](https://about.google)
+* [Roboto serif](https://fonts.google.com/specimen/Roboto+Serif), [Roboto](https://fonts.google.com/specimen/Roboto), [Roboto Mono](https://fonts.google.com/?query=Roboto+mono), [Noto sans JP](https://fonts.google.com/noto/specimen/Noto+Sans+JP?query=noto+sans+jp) and [Noto serif](https://fonts.google.com/noto/specimen/Noto+Serif) published by [Google](https://about.google)
 * [Gen’ei koburi Minchō (源映こぶり明朝)](https://okoneya.jp/font/genei-koburimin.html) published by [Okoneya (御琥祢屋)](https://okoneya.jp)
-* [Nôm Na Tống](http://nomfoundation.org/nom-tools/Nom-Font?uiLang=en) (喃那宋) published by [Vietnamese Nôm Preservation Foundation](http://nomfoundation.org/?uiLang=en) ([Hội bảo tồn di sản Nôm, 會保存遺産喃](http://nomfoundation.org/?uiLang=vn)) 
+* [Nôm Na Tống](http://nomfoundation.org/nom-tools/Nom-Font?uiLang=en) published by [Vietnamese Nôm Preservation Foundation](http://nomfoundation.org/?uiLang=en) ([Hội bảo tồn di sản Nôm, 會保存遺産喃](http://nomfoundation.org/?uiLang=vn))
+* [Hán Nôm Gothic](https://drive.google.com/drive/folders/0ByXIvWRASkT9Y0J3Y3E0QTJvZG8?resourcekey=0-PjsVEMQMfBgUOOWwRV1OJQ) published by [Han Nom revival committee of Vietnam (Ủy ban phục sinh Hán Nôm Việt Nam, 委班復生漢喃越南)](http://hannom-rcv.org/)
 * [Nanum Myeongjo (나눔명조)](https://m-hangeul.naver.com/font/detail/nanum-myeongjo) published by [Naver](https://www.navercorp.com/en/naver/company) ([네이버](https://www.navercorp.com/naver/company)) 
 
 
